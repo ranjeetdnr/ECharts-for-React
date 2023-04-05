@@ -19,7 +19,7 @@ const ScatterPlot = () => {
           <XAxis type="number" dataKey="Color intensity" name="Color intensity" />
           <YAxis type="number" dataKey="Hue" name="Hue" />
           <Tooltip cursor={{ strokeDasharray: '3 3' }} />
-          <Scatter name="A school" data={Records} fill="#8884d8" />
+          <Scatter name="A school" data={Records} fill="#e66" />
         </ScatterChart>
       </ResponsiveContainer>
     );

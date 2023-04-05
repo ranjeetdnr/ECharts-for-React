@@ -1,7 +1,7 @@
 [
     {
         "Alcohol": 1,
-        "Malic Acid": 14.23,
+        "MalicAcid": 14.23,
         "Ash": 1.71,
         "Alcalinity of ash": 2.43,
         "Magnesium": 15.6,
@@ -16,7 +16,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.2,
+        "MalicAcid": 13.2,
         "Ash": 1.78,
         "Alcalinity of ash": 2.14,
         "Magnesium": 11.2,
@@ -31,7 +31,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.16,
+        "MalicAcid": 13.16,
         "Ash": 2.36,
         "Alcalinity of ash": 2.67,
         "Magnesium": 18.6,
@@ -46,7 +46,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.37,
+        "MalicAcid": 14.37,
         "Ash": 1.95,
         "Alcalinity of ash": 2.5,
         "Magnesium": 16.8,
@@ -61,7 +61,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.24,
+        "MalicAcid": 13.24,
         "Ash": 2.59,
         "Alcalinity of ash": 2.87,
         "Magnesium": 21,
@@ -76,7 +76,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.2,
+        "MalicAcid": 14.2,
         "Ash": 1.76,
         "Alcalinity of ash": 2.45,
         "Magnesium": 15.2,
@@ -91,7 +91,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.39,
+        "MalicAcid": 14.39,
         "Ash": 1.87,
         "Alcalinity of ash": 2.45,
         "Magnesium": 14.6,
@@ -106,7 +106,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.06,
+        "MalicAcid": 14.06,
         "Ash": 2.15,
         "Alcalinity of ash": 2.61,
         "Magnesium": 17.6,
@@ -121,7 +121,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.83,
+        "MalicAcid": 14.83,
         "Ash": 1.64,
         "Alcalinity of ash": 2.17,
         "Magnesium": 14,
@@ -136,7 +136,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.86,
+        "MalicAcid": 13.86,
         "Ash": 1.35,
         "Alcalinity of ash": 2.27,
         "Magnesium": 16,
@@ -151,7 +151,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.1,
+        "MalicAcid": 14.1,
         "Ash": 2.16,
         "Alcalinity of ash": 2.3,
         "Magnesium": 18,
@@ -166,7 +166,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.12,
+        "MalicAcid": 14.12,
         "Ash": 1.48,
         "Alcalinity of ash": 2.32,
         "Magnesium": 16.8,
@@ -181,7 +181,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.75,
+        "MalicAcid": 13.75,
         "Ash": 1.73,
         "Alcalinity of ash": 2.41,
         "Magnesium": 16,
@@ -196,7 +196,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.75,
+        "MalicAcid": 14.75,
         "Ash": 1.73,
         "Alcalinity of ash": 2.39,
         "Magnesium": 11.4,
@@ -211,7 +211,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.38,
+        "MalicAcid": 14.38,
         "Ash": 1.87,
         "Alcalinity of ash": 2.38,
         "Magnesium": 12,
@@ -226,7 +226,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.63,
+        "MalicAcid": 13.63,
         "Ash": 1.81,
         "Alcalinity of ash": 2.7,
         "Magnesium": 17.2,
@@ -241,7 +241,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.3,
+        "MalicAcid": 14.3,
         "Ash": 1.92,
         "Alcalinity of ash": 2.72,
         "Magnesium": 20,
@@ -256,7 +256,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.83,
+        "MalicAcid": 13.83,
         "Ash": 1.57,
         "Alcalinity of ash": 2.62,
         "Magnesium": 20,
@@ -271,7 +271,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.19,
+        "MalicAcid": 14.19,
         "Ash": 1.59,
         "Alcalinity of ash": 2.48,
         "Magnesium": 16.5,
@@ -286,7 +286,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.64,
+        "MalicAcid": 13.64,
         "Ash": 3.1,
         "Alcalinity of ash": 2.56,
         "Magnesium": 15.2,
@@ -301,7 +301,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.06,
+        "MalicAcid": 14.06,
         "Ash": 1.63,
         "Alcalinity of ash": 2.28,
         "Magnesium": 16,
@@ -316,7 +316,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 12.93,
+        "MalicAcid": 12.93,
         "Ash": 3.8,
         "Alcalinity of ash": 2.65,
         "Magnesium": 18.6,
@@ -331,7 +331,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.71,
+        "MalicAcid": 13.71,
         "Ash": 1.86,
         "Alcalinity of ash": 2.36,
         "Magnesium": 16.6,
@@ -346,7 +346,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 12.85,
+        "MalicAcid": 12.85,
         "Ash": 1.6,
         "Alcalinity of ash": 2.52,
         "Magnesium": 17.8,
@@ -361,7 +361,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.5,
+        "MalicAcid": 13.5,
         "Ash": 1.81,
         "Alcalinity of ash": 2.61,
         "Magnesium": 20,
@@ -376,7 +376,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.05,
+        "MalicAcid": 13.05,
         "Ash": 2.05,
         "Alcalinity of ash": 3.22,
         "Magnesium": 25,
@@ -391,7 +391,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.39,
+        "MalicAcid": 13.39,
         "Ash": 1.77,
         "Alcalinity of ash": 2.62,
         "Magnesium": 16.1,
@@ -406,7 +406,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.3,
+        "MalicAcid": 13.3,
         "Ash": 1.72,
         "Alcalinity of ash": 2.14,
         "Magnesium": 17,
@@ -421,7 +421,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.87,
+        "MalicAcid": 13.87,
         "Ash": 1.9,
         "Alcalinity of ash": 2.8,
         "Magnesium": 19.4,
@@ -436,7 +436,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.02,
+        "MalicAcid": 14.02,
         "Ash": 1.68,
         "Alcalinity of ash": 2.21,
         "Magnesium": 16,
@@ -451,7 +451,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.73,
+        "MalicAcid": 13.73,
         "Ash": 1.5,
         "Alcalinity of ash": 2.7,
         "Magnesium": 22.5,
@@ -466,7 +466,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.58,
+        "MalicAcid": 13.58,
         "Ash": 1.66,
         "Alcalinity of ash": 2.36,
         "Magnesium": 19.1,
@@ -481,7 +481,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.68,
+        "MalicAcid": 13.68,
         "Ash": 1.83,
         "Alcalinity of ash": 2.36,
         "Magnesium": 17.2,
@@ -496,7 +496,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.76,
+        "MalicAcid": 13.76,
         "Ash": 1.53,
         "Alcalinity of ash": 2.7,
         "Magnesium": 19.5,
@@ -511,7 +511,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.51,
+        "MalicAcid": 13.51,
         "Ash": 1.8,
         "Alcalinity of ash": 2.65,
         "Magnesium": 19,
@@ -526,7 +526,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.48,
+        "MalicAcid": 13.48,
         "Ash": 1.81,
         "Alcalinity of ash": 2.41,
         "Magnesium": 20.5,
@@ -541,7 +541,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.28,
+        "MalicAcid": 13.28,
         "Ash": 1.64,
         "Alcalinity of ash": 2.84,
         "Magnesium": 15.5,
@@ -556,7 +556,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.05,
+        "MalicAcid": 13.05,
         "Ash": 1.65,
         "Alcalinity of ash": 2.55,
         "Magnesium": 18,
@@ -571,7 +571,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.07,
+        "MalicAcid": 13.07,
         "Ash": 1.5,
         "Alcalinity of ash": 2.1,
         "Magnesium": 15.5,
@@ -586,7 +586,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.22,
+        "MalicAcid": 14.22,
         "Ash": 3.99,
         "Alcalinity of ash": 2.51,
         "Magnesium": 13.2,
@@ -601,7 +601,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.56,
+        "MalicAcid": 13.56,
         "Ash": 1.71,
         "Alcalinity of ash": 2.31,
         "Magnesium": 16.2,
@@ -616,7 +616,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.41,
+        "MalicAcid": 13.41,
         "Ash": 3.84,
         "Alcalinity of ash": 2.12,
         "Magnesium": 18.8,
@@ -631,7 +631,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.88,
+        "MalicAcid": 13.88,
         "Ash": 1.89,
         "Alcalinity of ash": 2.59,
         "Magnesium": 15,
@@ -646,7 +646,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.24,
+        "MalicAcid": 13.24,
         "Ash": 3.98,
         "Alcalinity of ash": 2.29,
         "Magnesium": 17.5,
@@ -661,7 +661,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.05,
+        "MalicAcid": 13.05,
         "Ash": 1.77,
         "Alcalinity of ash": 2.1,
         "Magnesium": 17,
@@ -676,7 +676,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.21,
+        "MalicAcid": 14.21,
         "Ash": 4.04,
         "Alcalinity of ash": 2.44,
         "Magnesium": 18.9,
@@ -691,7 +691,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.38,
+        "MalicAcid": 14.38,
         "Ash": 3.59,
         "Alcalinity of ash": 2.28,
         "Magnesium": 16,
@@ -706,7 +706,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.9,
+        "MalicAcid": 13.9,
         "Ash": 1.68,
         "Alcalinity of ash": 2.12,
         "Magnesium": 16,
@@ -721,7 +721,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.1,
+        "MalicAcid": 14.1,
         "Ash": 2.02,
         "Alcalinity of ash": 2.4,
         "Magnesium": 18.8,
@@ -736,7 +736,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.94,
+        "MalicAcid": 13.94,
         "Ash": 1.73,
         "Alcalinity of ash": 2.27,
         "Magnesium": 17.4,
@@ -751,7 +751,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.05,
+        "MalicAcid": 13.05,
         "Ash": 1.73,
         "Alcalinity of ash": 2.04,
         "Magnesium": 12.4,
@@ -766,7 +766,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.83,
+        "MalicAcid": 13.83,
         "Ash": 1.65,
         "Alcalinity of ash": 2.6,
         "Magnesium": 17.2,
@@ -781,7 +781,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.82,
+        "MalicAcid": 13.82,
         "Ash": 1.75,
         "Alcalinity of ash": 2.42,
         "Magnesium": 14,
@@ -796,7 +796,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.77,
+        "MalicAcid": 13.77,
         "Ash": 1.9,
         "Alcalinity of ash": 2.68,
         "Magnesium": 17.1,
@@ -811,7 +811,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.74,
+        "MalicAcid": 13.74,
         "Ash": 1.67,
         "Alcalinity of ash": 2.25,
         "Magnesium": 16.4,
@@ -826,7 +826,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.56,
+        "MalicAcid": 13.56,
         "Ash": 1.73,
         "Alcalinity of ash": 2.46,
         "Magnesium": 20.5,
@@ -841,7 +841,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 14.22,
+        "MalicAcid": 14.22,
         "Ash": 1.7,
         "Alcalinity of ash": 2.3,
         "Magnesium": 16.3,
@@ -856,7 +856,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.29,
+        "MalicAcid": 13.29,
         "Ash": 1.97,
         "Alcalinity of ash": 2.68,
         "Magnesium": 16.8,
@@ -871,7 +871,7 @@
     },
     {
         "Alcohol": 1,
-        "Malic Acid": 13.72,
+        "MalicAcid": 13.72,
         "Ash": 1.43,
         "Alcalinity of ash": 2.5,
         "Magnesium": 16.7,
@@ -886,7 +886,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.37,
+        "MalicAcid": 12.37,
         "Ash": ".94",
         "Alcalinity of ash": 1.36,
         "Magnesium": 10.6,
@@ -901,7 +901,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.33,
+        "MalicAcid": 12.33,
         "Ash": 1.1,
         "Alcalinity of ash": 2.28,
         "Magnesium": 16,
@@ -916,7 +916,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.64,
+        "MalicAcid": 12.64,
         "Ash": 1.36,
         "Alcalinity of ash": 2.02,
         "Magnesium": 16.8,
@@ -931,7 +931,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.67,
+        "MalicAcid": 13.67,
         "Ash": 1.25,
         "Alcalinity of ash": 1.92,
         "Magnesium": 18,
@@ -946,7 +946,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.37,
+        "MalicAcid": 12.37,
         "Ash": 1.13,
         "Alcalinity of ash": 2.16,
         "Magnesium": 19,
@@ -961,7 +961,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.17,
+        "MalicAcid": 12.17,
         "Ash": 1.45,
         "Alcalinity of ash": 2.53,
         "Magnesium": 19,
@@ -976,7 +976,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.37,
+        "MalicAcid": 12.37,
         "Ash": 1.21,
         "Alcalinity of ash": 2.56,
         "Magnesium": 18.1,
@@ -991,7 +991,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.11,
+        "MalicAcid": 13.11,
         "Ash": 1.01,
         "Alcalinity of ash": 1.7,
         "Magnesium": 15,
@@ -1006,7 +1006,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.37,
+        "MalicAcid": 12.37,
         "Ash": 1.17,
         "Alcalinity of ash": 1.92,
         "Magnesium": 19.6,
@@ -1021,7 +1021,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.34,
+        "MalicAcid": 13.34,
         "Ash": ".94",
         "Alcalinity of ash": 2.36,
         "Magnesium": 17,
@@ -1036,7 +1036,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.21,
+        "MalicAcid": 12.21,
         "Ash": 1.19,
         "Alcalinity of ash": 1.75,
         "Magnesium": 16.8,
@@ -1051,7 +1051,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.29,
+        "MalicAcid": 12.29,
         "Ash": 1.61,
         "Alcalinity of ash": 2.21,
         "Magnesium": 20.4,
@@ -1066,7 +1066,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.86,
+        "MalicAcid": 13.86,
         "Ash": 1.51,
         "Alcalinity of ash": 2.67,
         "Magnesium": 25,
@@ -1081,7 +1081,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.49,
+        "MalicAcid": 13.49,
         "Ash": 1.66,
         "Alcalinity of ash": 2.24,
         "Magnesium": 24,
@@ -1096,7 +1096,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.99,
+        "MalicAcid": 12.99,
         "Ash": 1.67,
         "Alcalinity of ash": 2.6,
         "Magnesium": 30,
@@ -1111,7 +1111,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.96,
+        "MalicAcid": 11.96,
         "Ash": 1.09,
         "Alcalinity of ash": 2.3,
         "Magnesium": 21,
@@ -1126,7 +1126,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.66,
+        "MalicAcid": 11.66,
         "Ash": 1.88,
         "Alcalinity of ash": 1.92,
         "Magnesium": 16,
@@ -1141,7 +1141,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.03,
+        "MalicAcid": 13.03,
         "Ash": ".9",
         "Alcalinity of ash": 1.71,
         "Magnesium": 16,
@@ -1156,7 +1156,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.84,
+        "MalicAcid": 11.84,
         "Ash": 2.89,
         "Alcalinity of ash": 2.23,
         "Magnesium": 18,
@@ -1171,7 +1171,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.33,
+        "MalicAcid": 12.33,
         "Ash": ".99",
         "Alcalinity of ash": 1.95,
         "Magnesium": 14.8,
@@ -1186,7 +1186,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.7,
+        "MalicAcid": 12.7,
         "Ash": 3.87,
         "Alcalinity of ash": 2.4,
         "Magnesium": 23,
@@ -1201,7 +1201,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12,
+        "MalicAcid": 12,
         "Ash": ".92",
         "Alcalinity of ash": 2,
         "Magnesium": 19,
@@ -1216,7 +1216,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.72,
+        "MalicAcid": 12.72,
         "Ash": 1.81,
         "Alcalinity of ash": 2.2,
         "Magnesium": 18.8,
@@ -1231,7 +1231,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.08,
+        "MalicAcid": 12.08,
         "Ash": 1.13,
         "Alcalinity of ash": 2.51,
         "Magnesium": 24,
@@ -1246,7 +1246,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.05,
+        "MalicAcid": 13.05,
         "Ash": 3.86,
         "Alcalinity of ash": 2.32,
         "Magnesium": 22.5,
@@ -1261,7 +1261,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.84,
+        "MalicAcid": 11.84,
         "Ash": ".89",
         "Alcalinity of ash": 2.58,
         "Magnesium": 18,
@@ -1276,7 +1276,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.67,
+        "MalicAcid": 12.67,
         "Ash": ".98",
         "Alcalinity of ash": 2.24,
         "Magnesium": 18,
@@ -1291,7 +1291,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.16,
+        "MalicAcid": 12.16,
         "Ash": 1.61,
         "Alcalinity of ash": 2.31,
         "Magnesium": 22.8,
@@ -1306,7 +1306,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.65,
+        "MalicAcid": 11.65,
         "Ash": 1.67,
         "Alcalinity of ash": 2.62,
         "Magnesium": 26,
@@ -1321,7 +1321,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.64,
+        "MalicAcid": 11.64,
         "Ash": 2.06,
         "Alcalinity of ash": 2.46,
         "Magnesium": 21.6,
@@ -1336,7 +1336,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.08,
+        "MalicAcid": 12.08,
         "Ash": 1.33,
         "Alcalinity of ash": 2.3,
         "Magnesium": 23.6,
@@ -1351,7 +1351,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.08,
+        "MalicAcid": 12.08,
         "Ash": 1.83,
         "Alcalinity of ash": 2.32,
         "Magnesium": 18.5,
@@ -1366,7 +1366,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12,
+        "MalicAcid": 12,
         "Ash": 1.51,
         "Alcalinity of ash": 2.42,
         "Magnesium": 22,
@@ -1381,7 +1381,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.69,
+        "MalicAcid": 12.69,
         "Ash": 1.53,
         "Alcalinity of ash": 2.26,
         "Magnesium": 20.7,
@@ -1396,7 +1396,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.29,
+        "MalicAcid": 12.29,
         "Ash": 2.83,
         "Alcalinity of ash": 2.22,
         "Magnesium": 18,
@@ -1411,7 +1411,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.62,
+        "MalicAcid": 11.62,
         "Ash": 1.99,
         "Alcalinity of ash": 2.28,
         "Magnesium": 18,
@@ -1426,7 +1426,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.47,
+        "MalicAcid": 12.47,
         "Ash": 1.52,
         "Alcalinity of ash": 2.2,
         "Magnesium": 19,
@@ -1441,7 +1441,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.81,
+        "MalicAcid": 11.81,
         "Ash": 2.12,
         "Alcalinity of ash": 2.74,
         "Magnesium": 21.5,
@@ -1456,7 +1456,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.29,
+        "MalicAcid": 12.29,
         "Ash": 1.41,
         "Alcalinity of ash": 1.98,
         "Magnesium": 16,
@@ -1471,7 +1471,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.37,
+        "MalicAcid": 12.37,
         "Ash": 1.07,
         "Alcalinity of ash": 2.1,
         "Magnesium": 18.5,
@@ -1486,7 +1486,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.29,
+        "MalicAcid": 12.29,
         "Ash": 3.17,
         "Alcalinity of ash": 2.21,
         "Magnesium": 18,
@@ -1501,7 +1501,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.08,
+        "MalicAcid": 12.08,
         "Ash": 2.08,
         "Alcalinity of ash": 1.7,
         "Magnesium": 17.5,
@@ -1516,7 +1516,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.6,
+        "MalicAcid": 12.6,
         "Ash": 1.34,
         "Alcalinity of ash": 1.9,
         "Magnesium": 18.5,
@@ -1531,7 +1531,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.34,
+        "MalicAcid": 12.34,
         "Ash": 2.45,
         "Alcalinity of ash": 2.46,
         "Magnesium": 21,
@@ -1546,7 +1546,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.82,
+        "MalicAcid": 11.82,
         "Ash": 1.72,
         "Alcalinity of ash": 1.88,
         "Magnesium": 19.5,
@@ -1561,7 +1561,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.51,
+        "MalicAcid": 12.51,
         "Ash": 1.73,
         "Alcalinity of ash": 1.98,
         "Magnesium": 20.5,
@@ -1576,7 +1576,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.42,
+        "MalicAcid": 12.42,
         "Ash": 2.55,
         "Alcalinity of ash": 2.27,
         "Magnesium": 22,
@@ -1591,7 +1591,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.25,
+        "MalicAcid": 12.25,
         "Ash": 1.73,
         "Alcalinity of ash": 2.12,
         "Magnesium": 19,
@@ -1606,7 +1606,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.72,
+        "MalicAcid": 12.72,
         "Ash": 1.75,
         "Alcalinity of ash": 2.28,
         "Magnesium": 22.5,
@@ -1621,7 +1621,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.22,
+        "MalicAcid": 12.22,
         "Ash": 1.29,
         "Alcalinity of ash": 1.94,
         "Magnesium": 19,
@@ -1636,7 +1636,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.61,
+        "MalicAcid": 11.61,
         "Ash": 1.35,
         "Alcalinity of ash": 2.7,
         "Magnesium": 20,
@@ -1651,7 +1651,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.46,
+        "MalicAcid": 11.46,
         "Ash": 3.74,
         "Alcalinity of ash": 1.82,
         "Magnesium": 19.5,
@@ -1666,7 +1666,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.52,
+        "MalicAcid": 12.52,
         "Ash": 2.43,
         "Alcalinity of ash": 2.17,
         "Magnesium": 21,
@@ -1681,7 +1681,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.76,
+        "MalicAcid": 11.76,
         "Ash": 2.68,
         "Alcalinity of ash": 2.92,
         "Magnesium": 20,
@@ -1696,7 +1696,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.41,
+        "MalicAcid": 11.41,
         "Ash": ".74",
         "Alcalinity of ash": 2.5,
         "Magnesium": 21,
@@ -1711,7 +1711,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.08,
+        "MalicAcid": 12.08,
         "Ash": 1.39,
         "Alcalinity of ash": 2.5,
         "Magnesium": 22.5,
@@ -1726,7 +1726,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.03,
+        "MalicAcid": 11.03,
         "Ash": 1.51,
         "Alcalinity of ash": 2.2,
         "Magnesium": 21.5,
@@ -1741,7 +1741,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.82,
+        "MalicAcid": 11.82,
         "Ash": 1.47,
         "Alcalinity of ash": 1.99,
         "Magnesium": 20.8,
@@ -1756,7 +1756,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.42,
+        "MalicAcid": 12.42,
         "Ash": 1.61,
         "Alcalinity of ash": 2.19,
         "Magnesium": 22.5,
@@ -1771,7 +1771,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.77,
+        "MalicAcid": 12.77,
         "Ash": 3.43,
         "Alcalinity of ash": 1.98,
         "Magnesium": 16,
@@ -1786,7 +1786,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12,
+        "MalicAcid": 12,
         "Ash": 3.43,
         "Alcalinity of ash": 2,
         "Magnesium": 19,
@@ -1801,7 +1801,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.45,
+        "MalicAcid": 11.45,
         "Ash": 2.4,
         "Alcalinity of ash": 2.42,
         "Magnesium": 20,
@@ -1816,7 +1816,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.56,
+        "MalicAcid": 11.56,
         "Ash": 2.05,
         "Alcalinity of ash": 3.23,
         "Magnesium": 28.5,
@@ -1831,7 +1831,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.42,
+        "MalicAcid": 12.42,
         "Ash": 4.43,
         "Alcalinity of ash": 2.73,
         "Magnesium": 26.5,
@@ -1846,7 +1846,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 13.05,
+        "MalicAcid": 13.05,
         "Ash": 5.8,
         "Alcalinity of ash": 2.13,
         "Magnesium": 21.5,
@@ -1861,7 +1861,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.87,
+        "MalicAcid": 11.87,
         "Ash": 4.31,
         "Alcalinity of ash": 2.39,
         "Magnesium": 21,
@@ -1876,7 +1876,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.07,
+        "MalicAcid": 12.07,
         "Ash": 2.16,
         "Alcalinity of ash": 2.17,
         "Magnesium": 21,
@@ -1891,7 +1891,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.43,
+        "MalicAcid": 12.43,
         "Ash": 1.53,
         "Alcalinity of ash": 2.29,
         "Magnesium": 21.5,
@@ -1906,7 +1906,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 11.79,
+        "MalicAcid": 11.79,
         "Ash": 2.13,
         "Alcalinity of ash": 2.78,
         "Magnesium": 28.5,
@@ -1921,7 +1921,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.37,
+        "MalicAcid": 12.37,
         "Ash": 1.63,
         "Alcalinity of ash": 2.3,
         "Magnesium": 24.5,
@@ -1936,7 +1936,7 @@
     },
     {
         "Alcohol": 2,
-        "Malic Acid": 12.04,
+        "MalicAcid": 12.04,
         "Ash": 4.3,
         "Alcalinity of ash": 2.38,
         "Magnesium": 22,
@@ -1951,7 +1951,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.86,
+        "MalicAcid": 12.86,
         "Ash": 1.35,
         "Alcalinity of ash": 2.32,
         "Magnesium": 18,
@@ -1966,7 +1966,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.88,
+        "MalicAcid": 12.88,
         "Ash": 2.99,
         "Alcalinity of ash": 2.4,
         "Magnesium": 20,
@@ -1981,7 +1981,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.81,
+        "MalicAcid": 12.81,
         "Ash": 2.31,
         "Alcalinity of ash": 2.4,
         "Magnesium": 24,
@@ -1996,7 +1996,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.7,
+        "MalicAcid": 12.7,
         "Ash": 3.55,
         "Alcalinity of ash": 2.36,
         "Magnesium": 21.5,
@@ -2011,7 +2011,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.51,
+        "MalicAcid": 12.51,
         "Ash": 1.24,
         "Alcalinity of ash": 2.25,
         "Magnesium": 17.5,
@@ -2026,7 +2026,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.6,
+        "MalicAcid": 12.6,
         "Ash": 2.46,
         "Alcalinity of ash": 2.2,
         "Magnesium": 18.5,
@@ -2041,7 +2041,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.25,
+        "MalicAcid": 12.25,
         "Ash": 4.72,
         "Alcalinity of ash": 2.54,
         "Magnesium": 21,
@@ -2056,7 +2056,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.53,
+        "MalicAcid": 12.53,
         "Ash": 5.51,
         "Alcalinity of ash": 2.64,
         "Magnesium": 25,
@@ -2071,7 +2071,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.49,
+        "MalicAcid": 13.49,
         "Ash": 3.59,
         "Alcalinity of ash": 2.19,
         "Magnesium": 19.5,
@@ -2086,7 +2086,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.84,
+        "MalicAcid": 12.84,
         "Ash": 2.96,
         "Alcalinity of ash": 2.61,
         "Magnesium": 24,
@@ -2101,7 +2101,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.93,
+        "MalicAcid": 12.93,
         "Ash": 2.81,
         "Alcalinity of ash": 2.7,
         "Magnesium": 21,
@@ -2116,7 +2116,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.36,
+        "MalicAcid": 13.36,
         "Ash": 2.56,
         "Alcalinity of ash": 2.35,
         "Magnesium": 20,
@@ -2131,7 +2131,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.52,
+        "MalicAcid": 13.52,
         "Ash": 3.17,
         "Alcalinity of ash": 2.72,
         "Magnesium": 23.5,
@@ -2146,7 +2146,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.62,
+        "MalicAcid": 13.62,
         "Ash": 4.95,
         "Alcalinity of ash": 2.35,
         "Magnesium": 20,
@@ -2161,7 +2161,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.25,
+        "MalicAcid": 12.25,
         "Ash": 3.88,
         "Alcalinity of ash": 2.2,
         "Magnesium": 18.5,
@@ -2176,7 +2176,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.16,
+        "MalicAcid": 13.16,
         "Ash": 3.57,
         "Alcalinity of ash": 2.15,
         "Magnesium": 21,
@@ -2191,7 +2191,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.88,
+        "MalicAcid": 13.88,
         "Ash": 5.04,
         "Alcalinity of ash": 2.23,
         "Magnesium": 20,
@@ -2206,7 +2206,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.87,
+        "MalicAcid": 12.87,
         "Ash": 4.61,
         "Alcalinity of ash": 2.48,
         "Magnesium": 21.5,
@@ -2221,7 +2221,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.32,
+        "MalicAcid": 13.32,
         "Ash": 3.24,
         "Alcalinity of ash": 2.38,
         "Magnesium": 21.5,
@@ -2236,7 +2236,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.08,
+        "MalicAcid": 13.08,
         "Ash": 3.9,
         "Alcalinity of ash": 2.36,
         "Magnesium": 21.5,
@@ -2251,7 +2251,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.5,
+        "MalicAcid": 13.5,
         "Ash": 3.12,
         "Alcalinity of ash": 2.62,
         "Magnesium": 24,
@@ -2266,7 +2266,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.79,
+        "MalicAcid": 12.79,
         "Ash": 2.67,
         "Alcalinity of ash": 2.48,
         "Magnesium": 22,
@@ -2281,7 +2281,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.11,
+        "MalicAcid": 13.11,
         "Ash": 1.9,
         "Alcalinity of ash": 2.75,
         "Magnesium": 25.5,
@@ -2296,7 +2296,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.23,
+        "MalicAcid": 13.23,
         "Ash": 3.3,
         "Alcalinity of ash": 2.28,
         "Magnesium": 18.5,
@@ -2311,7 +2311,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.58,
+        "MalicAcid": 12.58,
         "Ash": 1.29,
         "Alcalinity of ash": 2.1,
         "Magnesium": 20,
@@ -2326,7 +2326,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.17,
+        "MalicAcid": 13.17,
         "Ash": 5.19,
         "Alcalinity of ash": 2.32,
         "Magnesium": 22,
@@ -2341,7 +2341,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.84,
+        "MalicAcid": 13.84,
         "Ash": 4.12,
         "Alcalinity of ash": 2.38,
         "Magnesium": 19.5,
@@ -2356,7 +2356,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.45,
+        "MalicAcid": 12.45,
         "Ash": 3.03,
         "Alcalinity of ash": 2.64,
         "Magnesium": 27,
@@ -2371,7 +2371,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 14.34,
+        "MalicAcid": 14.34,
         "Ash": 1.68,
         "Alcalinity of ash": 2.7,
         "Magnesium": 25,
@@ -2386,7 +2386,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.48,
+        "MalicAcid": 13.48,
         "Ash": 1.67,
         "Alcalinity of ash": 2.64,
         "Magnesium": 22.5,
@@ -2401,7 +2401,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.36,
+        "MalicAcid": 12.36,
         "Ash": 3.83,
         "Alcalinity of ash": 2.38,
         "Magnesium": 21,
@@ -2416,7 +2416,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.69,
+        "MalicAcid": 13.69,
         "Ash": 3.26,
         "Alcalinity of ash": 2.54,
         "Magnesium": 20,
@@ -2431,7 +2431,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.85,
+        "MalicAcid": 12.85,
         "Ash": 3.27,
         "Alcalinity of ash": 2.58,
         "Magnesium": 22,
@@ -2446,7 +2446,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.96,
+        "MalicAcid": 12.96,
         "Ash": 3.45,
         "Alcalinity of ash": 2.35,
         "Magnesium": 18.5,
@@ -2461,7 +2461,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.78,
+        "MalicAcid": 13.78,
         "Ash": 2.76,
         "Alcalinity of ash": 2.3,
         "Magnesium": 22,
@@ -2476,7 +2476,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.73,
+        "MalicAcid": 13.73,
         "Ash": 4.36,
         "Alcalinity of ash": 2.26,
         "Magnesium": 22.5,
@@ -2491,7 +2491,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.45,
+        "MalicAcid": 13.45,
         "Ash": 3.7,
         "Alcalinity of ash": 2.6,
         "Magnesium": 23,
@@ -2506,7 +2506,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.82,
+        "MalicAcid": 12.82,
         "Ash": 3.37,
         "Alcalinity of ash": 2.3,
         "Magnesium": 19.5,
@@ -2521,7 +2521,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.58,
+        "MalicAcid": 13.58,
         "Ash": 2.58,
         "Alcalinity of ash": 2.69,
         "Magnesium": 24.5,
@@ -2536,7 +2536,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.4,
+        "MalicAcid": 13.4,
         "Ash": 4.6,
         "Alcalinity of ash": 2.86,
         "Magnesium": 25,
@@ -2551,7 +2551,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.2,
+        "MalicAcid": 12.2,
         "Ash": 3.03,
         "Alcalinity of ash": 2.32,
         "Magnesium": 19,
@@ -2566,7 +2566,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 12.77,
+        "MalicAcid": 12.77,
         "Ash": 2.39,
         "Alcalinity of ash": 2.28,
         "Magnesium": 19.5,
@@ -2581,7 +2581,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 14.16,
+        "MalicAcid": 14.16,
         "Ash": 2.51,
         "Alcalinity of ash": 2.48,
         "Magnesium": 20,
@@ -2596,7 +2596,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.71,
+        "MalicAcid": 13.71,
         "Ash": 5.65,
         "Alcalinity of ash": 2.45,
         "Magnesium": 20.5,
@@ -2611,7 +2611,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.4,
+        "MalicAcid": 13.4,
         "Ash": 3.91,
         "Alcalinity of ash": 2.48,
         "Magnesium": 23,
@@ -2626,7 +2626,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.27,
+        "MalicAcid": 13.27,
         "Ash": 4.28,
         "Alcalinity of ash": 2.26,
         "Magnesium": 20,
@@ -2641,7 +2641,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 13.17,
+        "MalicAcid": 13.17,
         "Ash": 2.59,
         "Alcalinity of ash": 2.37,
         "Magnesium": 20,
@@ -2656,7 +2656,7 @@
     },
     {
         "Alcohol": 3,
-        "Malic Acid": 14.13,
+        "MalicAcid": 14.13,
         "Ash": 4.1,
         "Alcalinity of ash": 2.74,
         "Magnesium": 24.5,
